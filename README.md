@@ -1,6 +1,6 @@
 # InstaCart-Predictions
 
-For my first large scale machine learning projects, I chose to do an old Kaggle competition.  The goal of the competition hosted by InstaCart was to utilize a portion of de-identified data to predict a user's next order.  The competition required a submission of 75,000 users tand their predicted next orders.  The submission was ranked via the highest F1 score.
+For my first machine learning project, I chose to do an old Kaggle competition.  The goal of the competition hosted by InstaCart was to utilize a portion of de-identified data to predict a user's next order.  The competition required a submission of 75,000 users tand their predicted next orders.  The submission was ranked via the highest F1 score.
 
 In this project, I conduct three groups of analyses: an exploratory data analysis, a customer segmentation analysis, and, finally, developed a model predicting each users' orders.  
 
